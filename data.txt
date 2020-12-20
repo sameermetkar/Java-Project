@@ -1,0 +1,11 @@
+Name: Arctic
+Email: lasun
+Username: ArcticLasun
+Password: OkBros
+Confirmed Password: OkBros
+
+ INFORMATION TECHNOLOGY 
+Author: Add Book1 
+Publication: Book1
+Nos:  4
+
